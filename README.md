@@ -1,6 +1,7 @@
 # Samsung ATIV Smart PC Pro 700T - macOS Big Sur 11.6 - Open Core - 0.7.5
 
-konu başlığı burada: https://osxinfo.net/bolum/basarili-kurulumlar.20/post-thread
+konu başlığı burada: https://osxinfo.net/konu/basarili-kurulum-samsung-ativ-smart-pc-pro-700t-macos-big-sur-11-6-open-core-0-7-5.24742/
+
 WhatsApp Image 2021-11-28 at 9.40.11 PM.jpeg
 
 kurulumu buradaki imaj dosyasını usb ye yazarak yaptım. kurulum sırasında klavye docu çalışmadığıiçin elinizde tek usb girişi olan bir tablet kalıyor. usb çoklayıcı kullanarak usb+ klavye + mouse taktım.Herhangi bir sorunla karşılaşmadım ileri ileri dedim masaüstüne kadar geldim.
