@@ -1,4 +1,4 @@
-# Samsung-ATIV-Smart-PC-Pro-700T-hackintosh
+# Samsung ATIV Smart PC Pro 700T - macOS Big Sur 11.6 - Open Core - 0.7.5
 
 konu başlığı burada: https://osxinfo.net/bolum/basarili-kurulumlar.20/post-thread
 WhatsApp Image 2021-11-28 at 9.40.11 PM.jpeg
